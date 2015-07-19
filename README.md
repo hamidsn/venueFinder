@@ -13,6 +13,5 @@ To improve the code in the future, I will use gson to parse. Ley me say I do not
 I requested for more time to finish the job over the weekend but I managed my time to do it on after hours in weekdays.
 Thanks again to extend my deadline, fortunately it is finalized now.
 
-I hope you love it.
-Friday night, heading to a pub...
+
 
