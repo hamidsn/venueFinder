@@ -1,7 +1,7 @@
 # venueFinder
 Find coffee for developers
 
-Hi reviewrs,
+Hi,
 
 It is done now but not in only two hours. I worked more than half a day on this project.
 
